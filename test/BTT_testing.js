@@ -147,7 +147,6 @@ contract("BTT", (accounts) => {
                     // console.log("Reffer Level Count ", Number(refferdetails1.levelCount))
                     // console.log("Reffer Cycle ", Number(refferdetails1.cycle))
                     // console.log("Reffer Level Earned ", Number(refferdetails1.levelEarned / decimals))
-
                     // var refferReffernals1 = await BTTinstance.viewRef(uerdetails1.referer)
                     // console.log("refferReffernals", refferReffernals1)
 
