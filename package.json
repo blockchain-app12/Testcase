@@ -1,0 +1,24 @@
+{
+  "name": "btt_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ganache": "^2.0.1",
+    "@nomiclabs/hardhat-truffle5": "^2.0.2",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "hardhat": "^2.6.5",
+    "hardhat-gas-reporter": "^1.0.4",
+    "web3": "^1.6.0"
+  },
+  "dependencies": {
+    "@nomiclabs/buidler": "^1.4.8",
+    "chai": "^4.3.4"
+  }
+}
